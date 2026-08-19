@@ -24,7 +24,7 @@ h2 {
 /* Cabeçalho */
 
 .cabecalho {
-    background-color: #7e3e1c;
+    background-color: #23cfc7;
     padding: 15px 25px;
 
     display: flex;
@@ -77,14 +77,14 @@ h2 {
 
 .cartao-frente,
 .cartao-verso {
-    width: 150%;
-    height: 150%;
+    width: 100%;
+    height: 100%;
 
     position: absolute;
 
     padding: 10px;
 
-    background-color: white;
+    background-color: rgb(153, 23, 212);
     border-radius: 12px;
 
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
@@ -116,7 +116,7 @@ h2 {
 
     text-align: center;
 
-    color: #333;
+    color: #2ff7e6;
     font-size: 16px;
 }
 
@@ -124,7 +124,7 @@ h2 {
 /* Rodapé */
 
 footer {
-    background-color: #7e3e1c;
+    background-color: #951abb;
 
     padding: 15px;
 
