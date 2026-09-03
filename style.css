@@ -3,7 +3,7 @@ body {
     display: flex;
     flex-direction: column;
 
-    background-color: #adefe8;
+    background-color: #f6fafa;
     font-family: Arial, sans-serif;
     box-sizing: border-box;
     margin: 0;
@@ -33,12 +33,12 @@ h2 {
 }
 
 .cabecalho h1 {
-    color: rgb(95, 254, 249);
+    color: rgb(112, 22, 132);
     font-size: 24px;
 }
 
 .cabecalho a {
-     color: rgb(95, 254, 249);
+     color:rgb(112, 22, 132);
     text-decoration: none;
 }
 
