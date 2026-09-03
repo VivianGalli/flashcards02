@@ -3,7 +3,7 @@ body {
     display: flex;
     flex-direction: column;
 
-    background-color: #dabfe2;
+    background-color: #f6f4f6;
     font-family: Arial, sans-serif;
     box-sizing: border-box;
     margin: 0;
@@ -24,7 +24,7 @@ h2 {
 /* Cabeçalho */
 
 .cabecalho {
-    background-color: #9313ce;
+     background-color: #951abb;
     padding: 15px 25px;
 
     display: flex;
